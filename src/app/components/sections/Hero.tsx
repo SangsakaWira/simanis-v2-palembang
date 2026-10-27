@@ -8,7 +8,7 @@ export function Hero() {
         src="/images/background-hero.png"
         alt=""
       />
-      <div className="absolute -z-10 inset-0 bg-black/40 mt-10"></div>
+      <div className="absolute -z-10 inset-0 bg-gradient-to-t from-black/50 via-black/10 to-transparent"></div>
       <div className="container grid lg:grid-cols-2 items-end gap-8">
         <div className="max-w-2xl mt-[100px]">
           <p>Website Resmi SDA PUPR Kota Palembang</p>
